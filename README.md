@@ -1,4 +1,4 @@
-# Servidoresgratuitosdehosting
+# Servidores gratuitos de hosting
   000Webhost
   ![imatge](https://github.com/user-attachments/assets/5d24a7f1-774c-46f0-9a03-d1881e4f96ae)
 
