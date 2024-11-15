@@ -1,15 +1,8 @@
 # Servidores gratuitos de hosting
-  000Webhost
-  ![imatge](https://github.com/user-attachments/assets/5d24a7f1-774c-46f0-9a03-d1881e4f96ae)
-
-  AwardSpace
-  ![imatge](https://github.com/user-attachments/assets/0314ae10-1fa7-4df6-a527-b4be93aed582)
-
-  5GBfree  
-  ![imatge](https://github.com/user-attachments/assets/a743acb6-50bc-4df9-ad04-3494b47feb93)
-
-  GoogieHosting 
-  ![imatge](https://github.com/user-attachments/assets/f9402ab7-3de9-44e8-8d7d-26abf24a38d3)
-  
-  SW Hosting
-  ![imatge](https://github.com/user-attachments/assets/e914da31-fdab-4f90-85dd-53bbbca557d8)
+  | Proveïdor    | Espai d'emmagatzematge | Ample de banda | Dominis i Subdominis | Certificat SSL | Publicitat | Altres Característiques        |
+|----------------|------------------------|----------------|-----------------------|----------------|------------|--------------------------------|
+|  InfinityFree  | Il·limitat             | Il·limitat     | Dona un Subdomini gratuït i no permet l'ús de dominis personalitzats | Si | No té publicitat niguna | Serveis de SEO i redacció tècnica a empreses de diverses indústries, entre elles comerç electrònic, màrqueting a Internet, desenvolupament web i disseny  | InfinityFree |
+|  Google Drive  | 15 GB                  | 1 GBps         | Permet l'ús de dominis personalitzats per Google Workspace | Si | No té publicitat niguna | Lloc on pots emmagatzemar i accedir a tots els teus fitxers, mentre que Documents, Fulls de càlcul i Presentacions són tipus d'editors web, igual que Formularis i Dibuixos | Google Drive |
+|  Googiehost    | 1 GB SSD               | Il·limitat     | Té subdominis gratuïts i suport per a dominis personalitzats | Si | No té publicitat niguna |Il·limitat amb cPanel, Php 8, MySQL, FTP, sense anuncis, SSD NVMe il·limitat | Googiehost.com |
+|  Pro Free host | Il·limitat             | Il·limitat     | Ofereix subdominis gratuïts i suport per a dominis personalitzats | Si | No té publicitat niguna | Ancho de banda y almacenamiento ilimitados, Soporte para PHP y MySQL, SSL gratuito| Profreehost.com |
+|  HelioHost     | 1GB                    | Il·limitat     | No permet dominis personalitzats, subdomini gratuit si | No | No té publicitat niguna | Suport per a múltiples llenguatges de programació, bases de dades MySQL | HelioHost |
